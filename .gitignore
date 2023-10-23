@@ -1,0 +1,86 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+.build/
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# macOS
+.idea/
+*.swp
+*~
+.project
+*.xccheckout
+
+# Xcode user-specific files
+*.xcuserdatad
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Compiled source
+*.rbc
+*.pyc
+*.pyo
+__pycache__/
+
+# Swift
+.swift-version
+
+# CocoaPods
+Pods/
+
+# Generated Xcode files
+#
+# - .gym/
+# - .gradle/
+# - .scannerwork/
+# - build/
+# - fastlane/report.xml
+# - fastlane/Preview.html
+# - fastlane/screenshots/
+#
+# Release files are not included in this gitignore
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore.
+# However, you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+# Comment the next line if you want to check in your Pods.
+# Pods/
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+Carthage/Checkouts
+Carthage/Build
+
+# Commit your sketch data to github.
+.history/
+
+# Xcode
+#
+# xcode files
+#
+# User-specific Xcode settings
+#
+# File types
+xcuserstate
+project.xcworkspace/
