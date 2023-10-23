@@ -15,7 +15,10 @@ CocoaPods: The project utilizes CocoaPods as a dependency manager.
 
 Clone the project repository to your local machine.
 
-1. Unzip the project archive on your local machine.
+1. Clone the git repository:
+```bash
+    https://github.com/AmitAzu/ios-sources-assignment.git
+```
 2. Navigate to the project directory.
 3. Install project dependencies using CocoaPods.
 ```bash
